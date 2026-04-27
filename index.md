@@ -59,7 +59,9 @@ The box plot reveals a clear difference in perceived understanding between CS an
 
 The analysis demonstrates a consistent pattern across all visualizations. While CS major and Non-CS major students report similar average perceptions of course difficulty and pace, the distribution of responses reveals meaningful differences in how the course is experienced. Non-CS major students exhibit substantially greater variability in difficulty and pace ratings and report a noticeably lower level of understanding compared to CS major students. In particular, the median understanding scores for CS students align with the upper quartile of Non-CS students, indicating that many Non-CS students feel less confident in their comprehension of the material.
 
-These findings support the idea that the course structure, while effective for students with a computer science intended major, does not produce an equally consistent learning experience for students without prior interest in computer science.
+Overall, the findings partially support the initial idea that Non-CS students experience the course differently and with low perceived understanding. However, the similarity in average difficulty and pace rating suggests the evidence is not strong enough to fully support the need for major structural separation or redesign. Also, the evidence is limited in strength due to the sampling imbalance, particularly the much smaller number of CS major respondents compared to Non-CS major respondents. This imbalance reduces the confidence in direct comparison between groups and suggests the results should be interpreted cautiously rather than as definitive evidence of group differences.
+
+These findings suggest that the course structure, while effective for students with a computer science intended major, does not produce an equally consistent learning experience for students without prior interest in computer science.
 
 ### Recommendation
 
