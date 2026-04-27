@@ -7,13 +7,13 @@ layout: default
 
 ## Project Goal
 
-This project analyzes survey data comparing CS and Non-CS students in terms of perceived difficulty, pace, and understanding of COMP110. The primary goal of the analysis is to evaluate whether introducing a targeted support session for non-CS majors could improve their learning experience. This idea is motivated by the possibility that students without prior computer science background may experience greater difficulty, slower perceived pace, or lower understanding compared to CS majors.
+This project analyzes survey data comparing CS and Non-CS students on perceived difficulty, pace, and understanding of COMP110. The primary goal of the analysis is to evaluate whether introducing a targeted support session for non-CS majors could improve their learning experience. This idea is motivated by the possibility that students without a prior computer science background may experience greater difficulty, slower perceived pace, or lower understanding compared to CS majors.
 
 The investigation focuses on comparing CS and Non-CS student responses across three key Likert-scale variables: difficulty, pace, and understanding. These variables are selected because they directly reflect students' learning experiences and engagement with the course content.
 
 ## Analysis Summary
 
-To conduct the analysis, the two survey files are first combined. Then the dataset is cleaned to remove incomplete responses and grouped by major type (CS and Non-CS). Personal helper function is created to implement the cleaning steps. The sample size is also checked before visualization to verify completeness of data and sample size balance.
+To conduct the analysis, the two survey files are first combined. Then the dataset is cleaned to remove incomplete responses and grouped by major type (CS and Non-CS). Personal helper functions are created to implement the cleaning steps. The sample size is also checked before visualization to verify the completeness of the data and sample size balance.
 
 ## Visualization
 
@@ -53,7 +53,7 @@ A box plot is created to compare the understanding rating between CS and Non-CS 
 <img src="static/imgs/Understanding_rating.png"
 alt="Image of Pace rating for CS and Non-CS students." Width="500">
 
-The box plot reveals a clear difference in perceived understanding between CS and Non-CS students. CS students report a higher median understanding score, indicating greater overall confidence in the course material. Additionally, the interquartile range for CS students is shifted higher compared to Non-CS students, suggesting stronger comprehension across the middle portion of the distribution. Non-CS students show a wider spread and lower central tendency, with many responses clustered at lower understanding levels. This indicates a noticeable gap in perceived comprehension between the two groups.
+The box plot reveals a clear difference in perceived understanding between CS and Non-CS students. CS students report a higher median understanding score, indicating greater overall confidence in the course material. Additionally, the interquartile range for CS students is shifted higher than for Non-CS students, suggesting stronger comprehension in the middle of the distribution. Non-CS students show a wider spread and lower central tendency, with many responses clustered at lower understanding levels. This indicates a noticeable gap in perceived comprehension between the two groups.
 
 ## Conclusion
 
