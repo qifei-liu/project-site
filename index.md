@@ -74,6 +74,3 @@ Further analysis could examine whether these perception gaps change over time (e
 ### Costs and Trade-offs
 
 Adding supplemental resources requires instructor time, course staff coordination, and potentially increased workload for students who choose to participate. There is also a risk of stigmatizing Non-CS students if support is not framed as broadly beneficial. However, these trade-offs are outweighed by the potential improvement in learning equity and student confidence without altering the core pacing that benefits CS students.
-
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500">
